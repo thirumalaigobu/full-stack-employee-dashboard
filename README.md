@@ -1,16 +1,16 @@
 # Employee Data Dashboard with Spring-Boot/Angular
 
 - [Overview](#overview)
-- [Set-Up & Environment](#setup)
+- [Setting Up](#setting-up)
 - [Installation](#installation)
-- [Execution and Viewing the Results](#viewing-the-analysis)
+- [Execution and Viewing the Results](#execution-and-viewing-the-results)
 
 ## Overview
 
 A full stack dashboard displaying the list of available employee records in database. The main objective behind this
 project is to understand the process of creating a full stack application in Spring Boot leveraging Angular.
 
-## Set-Up & Environment
+## Setting Up
 
 This project is set up on following tech stacks. Ensure to download the appropriate dependencies while setting this up
 in your machine.
@@ -36,7 +36,7 @@ mvn clean install
 
 Check for a generated **/target** in the same level of the directory as pom.xml as below.
 
-![Alt text](src/main/resources/target folder path.JPG?raw=true "Title")
+![Alt text](https://github.com/thirumalaigobu/full-stack-employee-dashboard/blob/master/src/main/resources/target%20folder%20path.JPG?raw=true)
 
 ## Execution and Viewing the Results
 
@@ -50,10 +50,4 @@ java -jar spring-boot-fullstack-1.0-SNAPSHOT.jar
 Post the application start, navigate to **http://localhost:8080/** to view the dashboard containing the employee details
 stored in the DB. The output would be as below.
 
-![Alt text](src/main/resources/Full Stack App Output.JPG?raw=true "Title")
-
-
-
-
-
-
+![Alt text](https://github.com/thirumalaigobu/full-stack-employee-dashboard/blob/master/src/main/resources/Full%20Stack%20App%20Output.JPG?raw=true)
